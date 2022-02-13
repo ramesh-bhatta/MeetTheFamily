@@ -1,0 +1,23 @@
+PARENT_NAME,NAME,IS_MALE,SPOUSE_NAME
+NULL,King Arthur,true, Queen Margret
+King Arthur,Bill,true,Flora
+King Arthur,Charlie,true,NULL
+King Arthur,Percy,true,Audrey
+King Arthur,Ronald,true,Helen
+King Arthur,Ginerva,false,Harry
+Bill,Victoire,false,Ted
+Bill,Dominique,false,NULL
+Bill,Louis,true,NULL
+Victoire,Remus,true,NULL
+Percy,Molly,false,NULL
+Percy,Lucky,false,NULL
+Ronald,Rose,false,Malfoy
+Ronald,Hugo,true,NULL
+Rose,Draco,true,NULL
+Rose,Aster,fale,NULL
+Ginerva,James,true,Darcy
+Ginerva,Albus,true,Alice
+Ginerva,Lily,false,NULL
+James,William,true,NULL
+Albus,Ron,true,NULL
+Albus,Ginny,flase,NULL
